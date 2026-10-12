@@ -12,36 +12,67 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
   
 ## PROCEDURE
+1. Open Autodesk and create a new design. Select Create Sketch from the
+Sketch section and choose the Front plane as the sketching plane.
+2. After entering the sketch environment, select the Line tool from the Sketch toolbar. Draw
+the initial horizontal construction according to the given drawing and apply the required dimensions using the Sketch Dimension tool.
+3. Create the main reference lines and locate the required points according to the
+dimensions given in the question. A horizontal distance of 47 mm is maintained between the required centre positions, and the vertical dimensions are applied as specified in the drawing.
+4. Use the Circle tool to create the required circular features. Draw the circles at the
+specified locations and apply their respective diameters, including Ø20, Ø32, Ø10 and Ø20, as shown in the given drawing.
+5. Construct the upper circular portion of the component by creating the required concentric
+circles. Apply the corresponding dimensions and use the centre points to maintain the required alignment.
 
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
+<img width="536" height="443" alt="Screenshot 2026-10-10 124916" src="https://github.com/user-attachments/assets/b420c6f1-ee50-41c2-9e8f-7e910f607a96" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206497-ca83d495-119b-45cd-b43d-8ca3ea7e9544.png)
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+6. Next, create the outer profile of the component using the required Line and Arc tools. The curved portions are formed according to the dimensions given in the drawing, including the required R64 and R20 radii. 
+7. Apply the required geometric constraints and dimensions to position the curves correctly with respect to the previously created circles and reference geometry. This ensures that the sketch follows the proportions and measurements of the given component.
 
-![image](https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png)
+<img width="242" height="381" alt="tangent" src="https://github.com/user-attachments/assets/bad149c3-7b71-4711-b629-8b588f13d012" />
 
-5.	Use inspect feature to measure the dimensions of sketch.
+8. Create the two side circular features using theCircle tool. Position them according to the
+given horizontal and vertical dimensions andapply the required radius values, including R7 and R10.
+9. Create the lower circular feature at the centreofthe bottom portion. Draw the required
+circles and apply the specified Ø20 and Ø10dimensions.
+10. Construct the curved connections betweenthelower circular features and the main outer
+profile using the Arc tool. Apply the requiredradius values and adjust the curves so that they smoothly connect with the surroundinggeometry.
+11. After creating the basic geometry, use the Mirroroption to reproduce the required
+symmetrical geometry about the appropriatecentre/reference line. Select the geometry that has to be mirrored and choose the corresponding centre line as the mirror axis.
 
-![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
+<img width="270" height="432" alt="Screenshot 2026-10-10 124939" src="https://github.com/user-attachments/assets/d5bc348a-6397-49f8-8775-089acf3c08ca" />
+<img width="311" height="160" alt="mirror2" src="https://github.com/user-attachments/assets/6c9d607d-f9fc-4627-953a-f857335d9940" />
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+12. Once the mirrored geometry is created, check both sides of the sketch to ensure that the
+corresponding features are symmetrical and correctly positioned.
+13. Create the central patterned feature using the required circles and arcs. Draw the central
+circle and construct the surrounding repeated curved portions according to the dimensions shown in the drawing.
+14. Apply the required dimensions to the central feature, including Ø40, Ø66 and R6, and
+use the appropriate pattern/mirror operation to obtain the repeated geometry.
+15. After completing the required geometry, use the Trim tool to remove the unwanted
+portions of circles, arcs and overlapping lines. Select the portions that are not part of the final profile and trim them carefully.
 
-![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
+<img width="208" height="261" alt="Screenshot 2026-10-10 125000" src="https://github.com/user-attachments/assets/1ac20e0f-ae22-49c2-8bb9-4a0e1cfad2da" />
 
-7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
-
-![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
-
-![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
-
+16. Continue trimming the unnecessary sections until the outer boundary and inner features
+match the given component drawing. Check that no unwanted construction or overlapping portions remain in the final sketch.
+17. Verify all important dimensions and positions in the completed sketch. Check the 65 mm
+vertical dimension, 47 mm horizontal dimensions, the 26 mm and 24 mm vertical dimensions, and the specified radii and diameters.
+18. Make the necessary corrections wherever required and ensure that the final geometry
+matches the reference drawing. The completed sketch should contain the upper circular portion, side holes, lower circular feature, outer curved profile and central patterned feature.
+19. Finally, zoom out and display the complete drawing sheet containing the finished 2D
+sketch and its dimensions. Take a screenshot of the complete drawing for documentation.
+20. Save the completed Fusion design. The final sketch is then ready to be included in the
+experiment documentation.
 
 ## SKETCHS
-![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
+
+<img width="697" height="696" alt="Screenshot 2026-10-07 203838" src="https://github.com/user-attachments/assets/2d27c72f-114a-44c8-8e84-099984dfc040" />
+
 
 ## OUTPUT
+
+<img width="825" height="598" alt="Screenshot 2026-10-12 135958" src="https://github.com/user-attachments/assets/7bec6fdd-9f44-4e93-b79d-abb1d630cd77" />
 
 
 ## RESULT
