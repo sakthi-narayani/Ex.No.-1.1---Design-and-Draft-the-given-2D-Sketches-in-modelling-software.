@@ -49,7 +49,11 @@ corresponding features are symmetrical and correctly positioned.
 circle and construct the surrounding repeated curved portions according to the dimensions shown in the drawing.
 14. Apply the required dimensions to the central feature, including Ø40, Ø66 and R6, and
 use the appropriate pattern/mirror operation to obtain the repeated geometry.
-15. After completing the required geometry, use the Trim tool to remove the unwanted
+
+<img width="265" height="432" alt="circular pattern1" src="https://github.com/user-attachments/assets/e3a0e232-bf28-4043-8b14-b2b415c8ded5" />
+<img width="307" height="156" alt="circular pattern 2" src="https://github.com/user-attachments/assets/2a6d4cda-dd1b-40d1-bb60-0c0884d4ece0" />
+
+16. After completing the required geometry, use the Trim tool to remove the unwanted
 portions of circles, arcs and overlapping lines. Select the portions that are not part of the final profile and trim them carefully.
 
 <img width="208" height="261" alt="Screenshot 2026-10-10 125000" src="https://github.com/user-attachments/assets/1ac20e0f-ae22-49c2-8bb9-4a0e1cfad2da" />
@@ -65,13 +69,10 @@ sketch and its dimensions. Take a screenshot of the complete drawing for documen
 20. Save the completed Fusion design. The final sketch is then ready to be included in the
 experiment documentation.
 
-## SKETCHS
-
-<img width="697" height="696" alt="Screenshot 2026-10-07 203838" src="https://github.com/user-attachments/assets/2d27c72f-114a-44c8-8e84-099984dfc040" />
-
 
 ## OUTPUT
 
+<img width="985" height="711" alt="Screenshot 2026-10-21 105436" src="https://github.com/user-attachments/assets/0121a4fc-8691-4541-a508-dbf729878749" />
 <img width="825" height="598" alt="Screenshot 2026-10-12 135958" src="https://github.com/user-attachments/assets/7bec6fdd-9f44-4e93-b79d-abb1d630cd77" />
 
 
